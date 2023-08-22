@@ -1,6 +1,6 @@
 a = int(input())
 three = 1
-//
+
 while a>=1:
     if three%3==0:
         three= three+1
